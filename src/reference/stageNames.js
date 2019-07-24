@@ -1,0 +1,1 @@
+module.exports = ["singles", "minimus", "doubles", "minor", "triples", "major", "caters", "royal", "cinques", "maximus", "sextuples", "fourteen", "septuples", "sixteen", "octuples", "eighteen"];

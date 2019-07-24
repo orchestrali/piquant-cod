@@ -1,0 +1,10699 @@
+[
+  {
+    "name": "Fryerning",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Church Brampton",
+    "classes": [
+      "Bob",
+      "Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Westminster",
+    "classes": [
+      "Surprise",
+      "Differential Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Westminster",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Luton",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Warsop",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Annable's London",
+    "classes": [
+      "Surprise",
+      "Little Surprise"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bedford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Bedford",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Norwich",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Norwich",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Allendale",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Potterhanworth",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Whiston",
+    "classes": [
+      "Bob",
+      "Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Sutton",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "An Teallach",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Collins",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Bredons Norton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Apollo",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Armstrong",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Send",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Swindon Village",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Etwall",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Redding",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ivy",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Long Sutton",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Leap Year",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Amport",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Shelley",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Great Addington",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Shetland",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Queen Elizabeth II",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Hartpury",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Kemerton",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Gruzzles",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Overbury",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Sully",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Santa",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Llanishen",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Smartie",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Tarrington",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Church Lawford",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Wolford",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Shilton",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Vowchurch",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Whichford",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Crowcombe",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Doddinghurst",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Stanwell",
+    "classes": [
+      "Little Bob",
+      "Treble Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Stanwell",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Pattiswick",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Stisted",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ripple",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Caithness",
+    "classes": [
+      "Surprise",
+      "Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Cranford",
+    "classes": [
+      "Surprise",
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Aslackby Fen",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Rochester",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Rochester",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cawthorne",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Beighton",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ipswich",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Norfolk",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cambridge",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Cambridge",
+    "classes": [
+      "Surprise",
+      "Little Delight",
+      "Treble Place"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cambridge",
+    "classes": [
+      "Surprise",
+      "Little Surprise",
+      "Alliance"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Ebor",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Primrose",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Primrose",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Glossop",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Preston",
+    "classes": [
+      "Surprise",
+      "Alliance",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Preston",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Darfield",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Surfleet",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Loughborough",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Loughborough",
+    "classes": [
+      "Little Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "York",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "York",
+    "classes": [
+      "Surprise",
+      "Little Surprise"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "York",
+    "classes": [
+      "Surprise",
+      "Little Surprise"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Thornhill",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Durham",
+    "classes": [
+      "Little Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Beverley",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Paddington",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Blackfriars",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Unst",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Badgeworth",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Darton",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Wath",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Spratton",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Salters Lode",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Audley End",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Littlebury",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Bramford",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Runcton Holme",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Nether Stowey",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Kinder Scout",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Weston",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ashchurch",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Maisemore",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "High Halden",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Triffid",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Waterloo",
+    "classes": [
+      "Surprise",
+      "Differential Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Waterloo",
+    "classes": [
+      "Bob",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Nether Heyford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Braunston",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Childswickham",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Brixton",
+    "classes": [
+      "Surprise",
+      "Differential Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Hudson",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Cuckoo",
+    "classes": [
+      "Alliance",
+      "Treble Place"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Collingham",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Bernard",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Taylor",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Cotgrave",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Beinn Mhor",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Snitterfield",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "St John the Evangelist",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "College Bob III",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Torworth",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Studley",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Cossall",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Eagle",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Claremont",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Differential Bob",
+      "Delight",
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Rowlands Gill",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Marley Hill",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wappenham",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Milton",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Elton",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mys Merth",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ketteringham",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Arlington",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mys Ebrel",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mys Me",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Kilvington",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Great Easton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mys Genver",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Selston",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Cottam",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Rippingale",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Stapleford",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mys Whevrer",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Elmswell",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Pattishall",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Snaefell",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Dumbleton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Keyworth",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Plumtree",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Nativity",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Radford",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Monxton",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Brafield-on-the-Green",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Twyning",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Xanten",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Brentford",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Bangor",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Carlisle",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Carlisle",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Sandiacre",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Sleaford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Canterbury",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Bob",
+      "Delight",
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Canterbury",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Newcastle",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Chester",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Chester",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Thorndon",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Winchester",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Newchurch",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Mitcham",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Langford",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Eadburgebyrig",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Holywell",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Alliance",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Brushford",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mys Est",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Helvellyn",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Skiddaw",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Foxley",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mys Metheven",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mys Gortheren",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Buriton",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Bramshott",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Nicholas",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Barrowden",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Offley",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Lincoln",
+    "classes": [
+      "Surprise",
+      "Little Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Finchampstead",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Bakewell",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Minehead",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Spalding",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Spalding",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Pretyman Avenue",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "London",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "London",
+    "classes": [
+      "Surprise",
+      "Little Surprise",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Water",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Cross Fell",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Friday the 13th",
+    "classes": [
+      "Surprise",
+      "Differential Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Highbury",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Archway",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Hutton",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Buxton",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Buxton",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ranskill",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Dunelm",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Wood Green",
+    "classes": [
+      "Surprise",
+      "Differential Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Winkfield",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ashleworth",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Llanelly",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Hasfield",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Simon",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Wall",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Nigel",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Somersham",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "St Benet's",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Loch Lomond",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Basil",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Pebbles",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Green Park",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mork",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mindy",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Curdworth",
+    "classes": [
+      "Surprise",
+      "Differential Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Pangbourne",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Hobson",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Burnopfield",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ebchester",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Longcot",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Coleshill",
+    "classes": [
+      "Surprise",
+      "Differential Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Peasemore",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Tirley",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mys Gwyngala",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mys Hedra",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mys Du",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mys Kevardhu",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Shenfield",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Kentish",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Poppy",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Buxhall",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Bodenham",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Elsham",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "City",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Covent Garden",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Naremburn",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Southwell",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Southwell",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Paul",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ittle Beer",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Brimpton",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Brisley",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Thursday Lunchtime",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Kingsbury",
+    "classes": [
+      "Differential Bob",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Kingsbury",
+    "classes": [
+      "Little Surprise",
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Trafalgar",
+    "classes": [
+      "Little Surprise",
+      "Surprise",
+      "Differential Little Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Gainford",
+    "classes": [
+      "Little Surprise",
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Inglesham",
+    "classes": [
+      "Little Surprise",
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Inkpen",
+    "classes": [
+      "Little Surprise",
+      "Surprise"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Spitalfields Festival",
+    "classes": [
+      "Little Surprise",
+      "Surprise",
+      "Bob",
+      "Little Delight",
+      "Delight",
+      "Alliance",
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Heywood",
+    "classes": [
+      "Little Surprise",
+      "Surprise",
+      "Little Delight",
+      "Delight",
+      "Little Alliance",
+      "Alliance",
+      "Little Treble Bob",
+      "Treble Bob",
+      "Little Treble Place",
+      "Treble Place",
+      "Principle"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Oare",
+    "classes": [
+      "Little Surprise",
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Milston",
+    "classes": [
+      "Little Surprise",
+      "Surprise"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Frilsham",
+    "classes": [
+      "Little Surprise",
+      "Surprise"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Heptonstall",
+    "classes": [
+      "Little Surprise",
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wealdstone",
+    "classes": [
+      "Little Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Sunderland",
+    "classes": [
+      "Little Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Newtown",
+    "classes": [
+      "Little Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Herefordshire",
+    "classes": [
+      "Little Surprise",
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Belfast",
+    "classes": [
+      "Little Surprise",
+      "Surprise",
+      "Delight",
+      "Little Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Belfast",
+    "classes": [
+      "Surprise",
+      "Little Alliance"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Penwood",
+    "classes": [
+      "Little Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Headingley",
+    "classes": [
+      "Little Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Shepperton",
+    "classes": [
+      "Little Surprise",
+      "Surprise"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Itchen",
+    "classes": [
+      "Little Surprise",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Mortimer",
+    "classes": [
+      "Little Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kintbury",
+    "classes": [
+      "Little Surprise",
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Baydon",
+    "classes": [
+      "Little Surprise",
+      "Surprise"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "New Year's Eve",
+    "classes": [
+      "Little Surprise",
+      "Little Bob",
+      "Bob",
+      "Little Alliance",
+      "Little Treble Place"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Nihonium",
+    "classes": [
+      "Little Surprise",
+      "Surprise"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "St Lawrence",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Bob",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Buckland Dinham",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Abbots Bromley",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Broxbourne",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Stretford",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Midhopestones",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Fairfield",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Portsmouth",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Launceston Castle",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Enderby",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ilminster",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Stanmore",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Edmonton",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Gloucester",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Augusta",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Eton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Oxenwood",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Roundway",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Islip",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kingsclere",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "December",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "June",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Edenham",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hunsdon",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Icknield",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wakefield",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hamer",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Liversedge",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "St Edmundsbury",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Clitheroe",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Salisbury",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Birmingham",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Purbeck",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Campsall",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Calne",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hanbury",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Tunstall",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ventnor",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Aylesbury",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Marlborough",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Yatton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Blackburn",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Heighington",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bicester",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Lambourn",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Victoria",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Victoria",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Victoria Garesfield",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Islay",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Stratton",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Southgate",
+    "classes": [
+      "Bob",
+      "Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Orkney",
+    "classes": [
+      "Bob",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Brading",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Jamestown",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Duke of Norfolk",
+    "classes": [
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Raleigh",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Jupiter",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Nasty",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "March",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Oxford",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Oxford",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Oxford",
+    "classes": [
+      "Little Bob",
+      "Treble Place"
+    ],
+    "stage": 9
+  },
+  {
+    "name": "Rushden",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Little Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Freasley",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Haydon Bridge",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Easington",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Oswaldtwistle",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Marple",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Pershore",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Brigstock",
+    "classes": [
+      "Bob",
+      "Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Prudhoe",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ozone",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Birstwith",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Truro",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Xeranthemum",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Coseley",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Shildon",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Newton Hall",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Sedbergh",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Raunds",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Winford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Membury",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bishopwearmouth",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Winlaton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Xanadu",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Tyseley",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Zany",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "High Spen",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Warwickshire",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kettering",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Brancepeth",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Buckland",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Jorvik",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Roker",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Corbridge",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wales",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Quorn",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cheshunt",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "St George's",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Pearl",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Johnston",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Vitznau",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Turners Hill",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Mynyddislwyn",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Huntsham",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance",
+      "Hybrid"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Catherine",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ytterbium",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hill Ridware",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Natrium",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kirk Yetholm",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Shepton Beauchamp",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Shepton Beauchamp",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Jubilee",
+    "classes": [
+      "Delight",
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Congresbury",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Portsea",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Accrington",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Quito",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hackington",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Buckley",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Effin",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Malmesbury",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Rothwell",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Broadley",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bamford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ashworth",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hopwood",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Elmore",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Fothergill",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Jonah",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Dunbar",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Harpenden",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ulceby",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Zion",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Aswarby",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ohio",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Regina",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Irwell",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Welford",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Welford",
+    "classes": [
+      "Surprise",
+      "Hybrid"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Harthill",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Stoke",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Beeston",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Frensham",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Halloween",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Halloween",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Byfield",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Arthingworth",
+    "classes": [
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Castor",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Lammas",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Dallington",
+    "classes": [
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Deene",
+    "classes": [
+      "Alliance",
+      "Hybrid"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Lowick",
+    "classes": [
+      "Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Guilsborough",
+    "classes": [
+      "Bob",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Fulmer",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Silverdale",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Yelford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Zephyr",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Yarkhill",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Yate",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kellaways",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Martin",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "August",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ewen",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Elcombe Hall",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Swineshead",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bilsborrow",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Crick",
+    "classes": [
+      "Surprise",
+      "Hybrid"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Erith",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Tockenham",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bovey Tracey",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance",
+      "Treble Bob",
+      "Treble Place",
+      "Hybrid"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "70th Birthday",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "90th Birthday",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Welbourn",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Odyssey",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hartlepool",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Uxbridge",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Urchfont",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Fulney",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Over",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Michaelmas",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Henlow",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Beer",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Longstanton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Barking",
+    "classes": [
+      "Little Bob",
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Dry Drayton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Covingham",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Plantagenet",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Pinner",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Westhoughton",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Eros",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Toothill",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Rushey Platt",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Alderbury",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Rider",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Putney",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Xerxes",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Jerusalem",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "April",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bampton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Witney",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Yorkshire",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Yorkshire",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Quedgeley",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Avon",
+    "classes": [
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Avon",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Derby",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Stratford",
+    "classes": [
+      "Bob",
+      "Differential Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Longney",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Great Western",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Snowdon",
+    "classes": [
+      "Bob",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mars",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Trumpington",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Rutland",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ruardean",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Gainsborough",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Lincolnshire",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Lincolnshire",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Lincolnshire",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Lydney",
+    "classes": [
+      "Little Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Chesterfield",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Desborough",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Keynsham",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Stowe",
+    "classes": [
+      "Bob",
+      "Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Dorking",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hampton",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Checkendon",
+    "classes": [
+      "Surprise",
+      "Little Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wycombe",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "ANZAC",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Much Hadham",
+    "classes": [
+      "Surprise",
+      "Little Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Basingstoke",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Erdington",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Aldenham",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Thatcham",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Portishead",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hastings",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hereford",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Flax Bourton",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Farncombe",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Colegate",
+    "classes": [
+      "Alliance",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Earls Barton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Carisbrooke",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Easter",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Pitsford",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ringstead",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Badby",
+    "classes": [
+      "Delight",
+      "Hybrid"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Isham",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Twywell",
+    "classes": [
+      "Delight",
+      "Treble Place",
+      "Hybrid"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Yell",
+    "classes": [
+      "Bob",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Weekley",
+    "classes": [
+      "Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Woodford",
+    "classes": [
+      "Bob",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Woodford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wootton Bassett",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Yarnfield",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Winchcombe",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Filkins",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Vernham Dean",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Quoditch",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Driffield",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Valtos",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Zennor",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Quickswood",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Orcheston",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Croydon",
+    "classes": [
+      "Surprise",
+      "Little Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Rotherham",
+    "classes": [
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Lockeridge",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Clifford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Whitchurch",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Tideswell",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Elstree",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Overtown",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Upavon",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Etchilhampton",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Tidworth",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "X",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Purton",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hackpen",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ryton",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Odstock",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wanborough",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Innsworth",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Omicron",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kearsley",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Market Deeping",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Blaydon",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Nonesuch",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Barton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Tanfield",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Gorhambury",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Benwell",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Fluorspar",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Fluorine",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Long Ashton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Xmas",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bilston",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wilby",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Elegy",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Haydon Wick",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Mogador",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Goatacre",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Fovant",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hedgerley",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Barrow-upon-Soar",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Thickwood",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ashington",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Warkton",
+    "classes": [
+      "Bob",
+      "Hybrid"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Isis",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Principle"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Empingham",
+    "classes": [
+      "Alliance",
+      "Hybrid"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Exton",
+    "classes": [
+      "Bob",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Exton",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Glaston",
+    "classes": [
+      "Alliance",
+      "Hybrid"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Kelmarsh",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Mears Ashby",
+    "classes": [
+      "Bob",
+      "Delight",
+      "Hybrid"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Newnham",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Whilton",
+    "classes": [
+      "Surprise",
+      "Hybrid"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ribblesdale",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Sempringham",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Candlemas",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Athelstan",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Deddington",
+    "classes": [
+      "Surprise",
+      "Little Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Eden",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kingsdown",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Jesmond",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Mangotsfield",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Aldermaston",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Alperton",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ganymede",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cassandra",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Donington",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Portland",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kilburn",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wallingford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Lundy",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Tring",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Tiverton",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Quantock",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Vauxhall",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Mickleton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Evening Star",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Walkden",
+    "classes": [
+      "Surprise",
+      "Little Delight",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "November",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Old Cleeve",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Drayton",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Fowlmere",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Derwent",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Luxembourg",
+    "classes": [
+      "Surprise",
+      "Little Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Banwell",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Enfield",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Sproxton",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bowes-Lyon",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Arthur",
+    "classes": [
+      "Bob",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Cornwall",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "St Brannock's",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wymondham",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Easterton",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kingsteignton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Texarkana",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Newbury",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight",
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Highworth",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Blisworth",
+    "classes": [
+      "Bob",
+      "Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Swavesey",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Dingley",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Zeals",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Double Dublin",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Mercury",
+    "classes": [
+      "Surprise",
+      "Principle"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Nettleton",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Nine Elms",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Viney Hill",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ruby",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "February",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Venus",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Barrow Gurney",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Broughton Astley",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Radlett",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Moorhouses",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Harwell",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Orbe",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Millbank",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Moulton",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Farnworth",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Warnham",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Chiltern",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Dronfield",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ditcheat",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Thetford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hertfordshire",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Zeta",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Norton",
+    "classes": [
+      "Bob",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Norton",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Tetbury",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Birkdale",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Billingborough",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Steventon",
+    "classes": [
+      "Alliance",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Royston",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Jackbury",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Verney",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Concorde",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Centenary",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bengeo",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Chiddingstone",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ealing",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Okeford",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Emerald",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hallam",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bisley",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Perivale",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Quasimodo",
+    "classes": [
+      "Surprise",
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Liden",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Sutterton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Pisa",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hampshire",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Partington",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Andover",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ashton-under-Lyne",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Melksham",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Headstone",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Septuagenarian",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Century",
+    "classes": [
+      "Little Bob",
+      "Bob"
+    ],
+    "stage": 7
+  },
+  {
+    "name": "Century",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cottingham",
+    "classes": [
+      "Bob",
+      "Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Cottingham",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Buckminster",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Edinburgh",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bradford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Whitley Bay",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Old Spot",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Xenolite",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kilby",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Pavenhill",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Rockley",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cliviger",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Louisiana",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Dore",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight",
+      "Alliance",
+      "Treble Bob",
+      "Place"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Nathan",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Montgomery",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Queen Camel",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Chelmsford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Humberstone",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Todmorden",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Illston",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Marchesvan",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "May",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Adar",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Usk",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Tammuz",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Yosemite",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kingstown",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Centenarian",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Mark",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Elul",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Nisan",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Phosphorus",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Wheathampstead",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Porchester",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Gharb",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Handsworth",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Bob",
+      "Principle"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Broughton",
+    "classes": [
+      "Bob",
+      "Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Warminster",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Coleford",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Sivan",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Tebeth",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ab",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Zif",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ethanim",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Littlecote",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Gressenhall",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Sebat",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Guildford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Burton Latimer",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Anniversary",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Yelling",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Amberley",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Barton Seagrave",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kingsley",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Chisleu",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Jarrow",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Harrow",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Frodsham",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Charleston",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bristol",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bristol",
+    "classes": [
+      "Surprise",
+      "Little Surprise"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Bristol",
+    "classes": [
+      "Surprise",
+      "Little Surprise"
+    ],
+    "stage": 14
+  },
+  {
+    "name": "Bristol",
+    "classes": [
+      "Surprise",
+      "Little Surprise"
+    ],
+    "stage": 16
+  },
+  {
+    "name": "Premier",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Edgbaston",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Swanage",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Birstall",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ambleside",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bermondsey",
+    "classes": [
+      "Differential Bob",
+      "Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Dordrecht",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance",
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Donhead",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Deane",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Nomansland",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Netherstreet",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Larkhill",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bucklebury",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Tenterden",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Stanton",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Whittlesey",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Burnham Beeches",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Clent",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Diamond Jubilee",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hook Norton",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cotswold",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Ullenhall",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Middleton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ecuador",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Meldreth",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Jersey",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Quainton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Nythe",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Silver",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Southam",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cassiobury",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bushey",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wembley",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Oxfordshire",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Vienna",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Knowle",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Dartford",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Runnymede",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Chewton Mendip",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wellington",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cheltenham",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Howden",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Barbourne",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Haselbech",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Vermont",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Highclere",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Valerian",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Dorchester",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Irchester",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Callington",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kate & William",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Uffcott",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Riga",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Northleach",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Fifty",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Oxhey",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Stonehenge",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Biggleswade",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Caversham",
+    "classes": [
+      "Surprise",
+      "Principle"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Jedburgh",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hitchin",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cavendish",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Brighouse",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Boveney",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Brighton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Charwelton",
+    "classes": [
+      "Place",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Kemsing",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kenton",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Quinton",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Quinton",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Xenia",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "St John's",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Apsley",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Gray",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Carmarthen",
+    "classes": [
+      "Bob",
+      "Treble Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Watford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "St Giles",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "West Bridgford",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Atworth",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Heathcote",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Leeds",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kent",
+    "classes": [
+      "Little Bob",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Kent",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Kent",
+    "classes": [
+      "Little Bob",
+      "Treble Bob"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Kent",
+    "classes": [
+      "Little Bob",
+      "Treble Bob"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Kent",
+    "classes": [
+      "Little Bob",
+      "Treble Bob"
+    ],
+    "stage": 14
+  },
+  {
+    "name": "Totley",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Abthorpe",
+    "classes": [
+      "Bob",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Ascension",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Gadolinium",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wrotham",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Northfleet",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Holywood",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Garnet",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Shelford",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Shelford",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hertford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Blanchland",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Foxbridge",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Rushall",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Clevancy",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Dauntsey",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Redlynch",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Coalpit Heath",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Idstone",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Malpas",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Alvediston",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Pettistree",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Seend",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Yealmpton",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Eboracum",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Quixhill",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ashes",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Poulton",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Elstow",
+    "classes": [
+      "Surprise",
+      "Little Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Golden",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bolsterstone",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Alford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Brightwell",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wollaton",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Wharncliffe",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hammersmith",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Spitalfields",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Advent",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Osterley",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Sheffield",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Huddersfield",
+    "classes": [
+      "Surprise",
+      "Little Surprise"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Glasgow",
+    "classes": [
+      "Little Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Brewood",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Antigua",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Chatteris",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Nottinghamshire",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cambridge Blue",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Revolver",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Prestbury",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Elford",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bedfont",
+    "classes": [
+      "Bob",
+      "Alliance",
+      "Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Janus",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Branston",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Newport",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "September",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Orwell",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Leckhampton",
+    "classes": [
+      "Delight",
+      "Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Daventry",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Daventry",
+    "classes": [
+      "Delight",
+      "Little Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Shadwell",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wheatley",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Richmond",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Backwell",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Porlock",
+    "classes": [
+      "Bob",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Wimbledon",
+    "classes": [
+      "Surprise",
+      "Little Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Romsey",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Skipton",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Chittlehampton",
+    "classes": [
+      "Surprise",
+      "Treble Place"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "St Albans",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Seagrave",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Shoreditch",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Shoreditch",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Fork Handles",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Queen Charlton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Campton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Thorner",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bournemouth",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Brecon",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Salford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Selworthy",
+    "classes": [
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ripon",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hughenden",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Misbourne",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Amersham",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Amersham",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Coventry",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Crayford",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Gadebridge",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Easton Neston",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight",
+      "Alliance",
+      "Treble Bob",
+      "Principle"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Naseby",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Sussex",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Little Rock",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Gateshead",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wicken",
+    "classes": [
+      "Surprise",
+      "Hybrid"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Clanfield",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Leicestershire",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Ickwell Green",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hedon",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Tuxford",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Willesden",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Liverpool",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Pinhoe",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Uppingham",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Maypole",
+    "classes": [
+      "Alliance",
+      "Little Alliance"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Basford",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "St Blaise",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Tiffield",
+    "classes": [
+      "Surprise",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Barnet",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Chichester",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Felmersham",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "July",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Olveston",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Faringdon",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "January",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Sapcote",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Xavier",
+    "classes": [
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Xavier",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Duncote",
+    "classes": [
+      "Bob",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Kingsway",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Capricorn",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cumberland",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "October",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hessle",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Newstead",
+    "classes": [
+      "Bob",
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Windsor",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Bob",
+      "Delight",
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Windsor",
+    "classes": [
+      "Little Bob",
+      "Little Alliance",
+      "Treble Bob"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Whickham",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Baldock",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Nuneaton",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Manchester",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Manchester",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Thursday",
+    "classes": [
+      "Alliance",
+      "Principle"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Peak District",
+    "classes": [
+      "Surprise",
+      "Principle"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Neasden",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Clevedon",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Burnham",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Rothamsted",
+    "classes": [
+      "Surprise",
+      "Little Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bolton",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Exeter",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Peterborough",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Monmouth",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Diamond",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Diamond",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Waldron",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Stoke Poges",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Quorndon",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "St Leonard",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Walsden",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Isambard Kingdom Brunel",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Huguenot",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bramley",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ostrich",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ratby",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Buntingford",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Mendip",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Aston",
+    "classes": [
+      "Surprise",
+      "Principle"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ashurst",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ingleton",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wobbly Bobs",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Normandy",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Thornbridge",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cromer",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Wyvern",
+    "classes": [
+      "Bob",
+      "Treble Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Ware",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Uniform",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Blackbird",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Penarth",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bushey Hall",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Gheluvelt",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Christmas Steps",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Julie McDonnell",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Little Alliance",
+      "Alliance",
+      "Treble Place"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Julie McDonnell",
+    "classes": [
+      "Surprise",
+      "Little Alliance",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Julie McDonnell",
+    "classes": [
+      "Little Alliance",
+      "Alliance"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Hampden",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Spitfire",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Lysander",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Defiant",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Pendleton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Passchendaele",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Garlick Hill",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Slaley",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bushey Heath",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Tynemouth",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Armistice",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Great Kingshill",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Uppertown",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Eardisley",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Blackdown",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Monday Morning",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Sparrowhawk",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Barbury Castle",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Mosman Park",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Gladiator",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hurricane",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Champion",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Poole",
+    "classes": [
+      "Little Surprise",
+      "Surprise"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Nova",
+    "classes": [
+      "Little Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Stafford",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "East Haddon",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Kenilworth",
+    "classes": [
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ragsdale",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Hampstead",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Golden Wedding",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Upton",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ranmoor",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Ewerby",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Chepstow",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Cullompton",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Bromsgrove",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Lyme Regis",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Ferrybridge",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Imperial",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "MM",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Isleworth",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Swindon",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Swindon",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Burley",
+    "classes": [
+      "Surprise",
+      "Bob"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Old Bill",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Boston",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Rickmansworth",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Welton",
+    "classes": [
+      "Bob",
+      "Place",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Christ Church",
+    "classes": [
+      "Little Bob",
+      "Differential Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Yelvertoft",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Black Sheep",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "East Riding",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Fishponds",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Worsley",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Wellesbourne",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Jacob's Wells",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Balmoral",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Upham",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Upham",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Wordsley",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Tamworth",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Thames",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Maidwell",
+    "classes": [
+      "Bob",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Clifton",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Alderton",
+    "classes": [
+      "Alliance",
+      "Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Ecclesfield",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Beaumont",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Morland",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Parkway",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Parkway",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Melrose",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Hangingwater",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Vintage",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Slough",
+    "classes": [
+      "Surprise",
+      "Little Bob",
+      "Bob"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Preshute",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Hardwick",
+    "classes": [
+      "Bob",
+      "Treble Place",
+      "Differential"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Litchborough",
+    "classes": [
+      "Bob",
+      "Place",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Ravensthorpe",
+    "classes": [
+      "Bob",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Harborne",
+    "classes": [
+      "Differential Bob",
+      "Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Harborne",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Greenwich",
+    "classes": [
+      "Bob",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Lansdowne",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Phoenix",
+    "classes": [
+      "Bob",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Houndsditch",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "London No.3",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Dudley",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Northallerton",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Knottingley",
+    "classes": [
+      "Surprise",
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Gosforth",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Staverton",
+    "classes": [
+      "Bob",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Staverton",
+    "classes": [
+      "Delight",
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Llandaff",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Maidford",
+    "classes": [
+      "Bob",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Rothersthorpe",
+    "classes": [
+      "Bob",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Burnley",
+    "classes": [
+      "Delight",
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Magna Carta",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Saltby",
+    "classes": [
+      "Surprise",
+      "Bob",
+      "Alliance",
+      "Treble Place"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Phobos",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Seavington St Mary",
+    "classes": [
+      "Bob",
+      "Hybrid"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Lyddington",
+    "classes": [
+      "Bob",
+      "Alliance",
+      "Hybrid"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Lyddington",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Northfield",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Southwark",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Clink",
+    "classes": [
+      "Surprise",
+      "Little Bob"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Yuletide",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Old Town",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Strathmore",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Weaverham",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Halifax",
+    "classes": [
+      "Bob",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Smallbrook",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Quebec",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Orion",
+    "classes": [
+      "Surprise",
+      "Principle"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Ashton",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Barford",
+    "classes": [
+      "Surprise",
+      "Alliance"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Miranda",
+    "classes": [
+      "Surprise",
+      "Delight"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Llanarthne",
+    "classes": [
+      "Little Bob",
+      "Principle"
+    ],
+    "stage": 4
+  },
+  {
+    "name": "Plain",
+    "classes": [
+      "Bob",
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Double",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Stedman",
+    "classes": [
+      "Bob",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Stedman",
+    "classes": [
+      "Bob",
+      "Differential"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Twineham",
+    "classes": [
+      "Bob",
+      "Differential"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "St Simon's",
+    "classes": [
+      "Bob",
+      "Little Bob"
+    ],
+    "stage": 7
+  },
+  {
+    "name": "Lutton",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Bledlow",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Sudborough",
+    "classes": [
+      "Bob",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Bulwick",
+    "classes": [
+      "Bob",
+      "Treble Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Bradden",
+    "classes": [
+      "Bob",
+      "Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Boughton",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Bozeat",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Barby",
+    "classes": [
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 4
+  },
+  {
+    "name": "Candlesby",
+    "classes": [
+      "Bob",
+      "Treble Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Husbands Bosworth",
+    "classes": [
+      "Bob",
+      "Treble Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Clewer",
+    "classes": [
+      "Bob",
+      "Little Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Double Oxford",
+    "classes": [
+      "Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Corse",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Staunton",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Cassington",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Great Barr",
+    "classes": [
+      "Bob",
+      "Differential Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "New High Halden",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Fulbeck",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "College",
+    "classes": [
+      "Bob",
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Dewsbury",
+    "classes": [
+      "Bob",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Dewsbury",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Brampton Ash",
+    "classes": [
+      "Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Hempsted",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Combe Florey",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "St George",
+    "classes": [
+      "Bob",
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Tingwall",
+    "classes": [
+      "Bob",
+      "Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ingleborough",
+    "classes": [
+      "Bob",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Algarkirk",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Minety",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Evening Exercise",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Fabian",
+    "classes": [
+      "Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Bromsberrow",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Hawkridge",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Llanthony",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Wellow",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Castle Bromwich",
+    "classes": [
+      "Differential Bob",
+      "Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "St Andrew's",
+    "classes": [
+      "Differential Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Rule",
+    "classes": [
+      "Differential Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Houghton",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Wragby",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Stirling",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ecclefechan",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Hawthorn",
+    "classes": [
+      "Little Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Xema",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Thurcaston",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Bolsover",
+    "classes": [
+      "Bob",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Uplands",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Yarrow",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Syston",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Gonville",
+    "classes": [
+      "Bob",
+      "Little Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Sparsholt",
+    "classes": [
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 4
+  },
+  {
+    "name": "Cleatham",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Smith",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Oxhill",
+    "classes": [
+      "Bob",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Crofton",
+    "classes": [
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Cross Stone",
+    "classes": [
+      "Bob",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Warborough",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Pershore St Andrew's",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cleethorpes",
+    "classes": [
+      "Bob",
+      "Delight"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "College Bob IV",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Precious",
+    "classes": [
+      "Delight",
+      "Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Neath",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Linby",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Brinsley",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Blidworth",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Harlestone",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Lockwood",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Danbury",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Hanley Castle",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Pebmarsh",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Hatherop",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Wilmslow",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Fotheringay",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Poynton",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Gamston",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Silkstone",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Beckford",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Stockwith",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Chalford",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Warmfield",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Alderbourne",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Hitcham",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Barham",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Oswald",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Kirkthorpe",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Bole",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Kirkheaton",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Brailes",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Tollesbury",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Britannia",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "University College",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Litton",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ben Wyvis",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "David",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ashford in the Water",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Nettlebed",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Evelyn",
+    "classes": [
+      "Delight",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Whittington",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Felkirk",
+    "classes": [
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Timothy",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Gibside",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Mitchell",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "St Chads",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Willey",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Hollinside",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Cotton",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Zatisall",
+    "classes": [
+      "Delight",
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Quinn's",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Horwich",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Fructidor",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ventose",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Thermidor",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Nivose",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Frimaire",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Pluviose",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Messidor",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Prairial",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Brumaire",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Floreal",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Vendemiaire",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Germinal",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Lee Wood",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ormskirk",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Amy",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Charlie",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Huchedene",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Highweek",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Baston Fen",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Ryecroft",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Mosse",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Port Erin",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Walkington",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Patrington",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Snowdrop",
+    "classes": [
+      "Delight",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Urmston",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Stocksfield",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Greenhead",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Swanmore",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Waynflete",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Duffield",
+    "classes": [
+      "Delight",
+      "Principle"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Amazon",
+    "classes": [
+      "Little Alliance",
+      "Little Treble Bob"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Landmark",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Upperthorpe",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Hillsborough",
+    "classes": [
+      "Delight",
+      "Alliance"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Clearwell",
+    "classes": [
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 4
+  },
+  {
+    "name": "Blaxhall",
+    "classes": [
+      "Alliance",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Willesborough",
+    "classes": [
+      "Alliance",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Charnwood",
+    "classes": [
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "New Century",
+    "classes": [
+      "Alliance",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Priors Marston",
+    "classes": [
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Nightingale",
+    "classes": [
+      "Alliance",
+      "Treble Place"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Myrmica",
+    "classes": [
+      "Alliance",
+      "Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Lynx",
+    "classes": [
+      "Little Alliance",
+      "Differential"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Deimos",
+    "classes": [
+      "Little Alliance",
+      "Alliance"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "St Aelhaiarn",
+    "classes": [
+      "Treble Bob",
+      "Little Place"
+    ],
+    "stage": 4
+  },
+  {
+    "name": "Sandal",
+    "classes": [
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "College Exercise",
+    "classes": [
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "London Scholars' Pleasure",
+    "classes": [
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Albion",
+    "classes": [
+      "Treble Bob",
+      "Little Treble Bob"
+    ],
+    "stage": 8
+  },
+  {
+    "name": "Albion",
+    "classes": [
+      "Treble Bob",
+      "Little Treble Bob"
+    ],
+    "stage": 10
+  },
+  {
+    "name": "Albion",
+    "classes": [
+      "Treble Bob",
+      "Little Treble Bob"
+    ],
+    "stage": 12
+  },
+  {
+    "name": "Kalamazoo",
+    "classes": [
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Woodcock's Victory",
+    "classes": [
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "James",
+    "classes": [
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Focus",
+    "classes": [
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Berrick Salome",
+    "classes": [
+      "Treble Bob",
+      "Treble Place"
+    ],
+    "stage": 6
+  },
+  {
+    "name": "Ockham",
+    "classes": [
+      "Treble Place",
+      "Place"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Hascombe",
+    "classes": [
+      "Place",
+      "Differential"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Mermaid",
+    "classes": [
+      "Place",
+      "Principle"
+    ],
+    "stage": 5
+  },
+  {
+    "name": "Titanic",
+    "classes": [
+      "Differential",
+      "Principle"
+    ],
+    "stage": 5
+  }
+]
