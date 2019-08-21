@@ -54,21 +54,27 @@ const lhs = require('./src/lh/run.js');
 const updateApps = require('./src/updateApps.js');
 const addCalls = require('./src/addCalls.js');
 const connect = require('./src/mongoose/connect2.js');
+const find = require('./src/find/findFields.js');
 const del = require('./src/find/delete.js');
+const refs = require('./src/reference/refs.js');
 //const getbb = require('./src/bb/a.js');
 const bbcycle = require('./src/bbcycle.js');
 const names = require('./src/names/add.js');
-//const pro = require('./src/process.js');
+const pro = require('./src/process.js');
 //const compare = require('./src/bb/rawtext.js');
 const bbmaster = require('./src/bbmaster.js');
 //pro();
+var shoetest = require('shoetest');
+var test = 'camridge'
 
+//connect();
+//listen.info(shoetest.test("st alban", test, {end: "s?"}))
 //addCalls();
 //compare(30000);
 //var db = connect();
 //del(db, 'bbperformances', {bbNum: {$gt: 1002}}, () => {listen.info("done")})
 
-
+//find("bbperformance", {query: {}, fields: "titleFull"}, (rr) => {listen.info(rr.filter(r => refs.stageNames.every(s => !r.titleFull.toLowerCase().includes(s))))});
 //bbmaster(909, 1, null, () => {listen.info("done")});
 //bbcycle("redo", 1001, 1, () => {listen.info("done")});
 //getbb(1293136, () => {listen.info("done")});

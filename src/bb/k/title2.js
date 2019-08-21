@@ -29,6 +29,11 @@ module.exports = function title(perf, notes, dets, cb) {
   if (title.length > 0) {
     remove.forEach(ww => {
       if (regex(title, ww)) title = replace(title, ww);
+    });
+  }
+  if (detail.length > 0) {
+    detail = replace(detail, "â");
+    remove.forEach(ww => {
       if (regex(detail, ww)) detail = replace(detail, ww);
     });
   }

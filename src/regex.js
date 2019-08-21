@@ -1,5 +1,6 @@
 
 module.exports = function findtruth(str, test) {
+  if (str === "") return false;
   let locs = [];
   let i = 0;
   let found
