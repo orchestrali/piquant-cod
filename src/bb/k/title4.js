@@ -60,6 +60,9 @@ module.exports = function findmethods(stuff, methods, strings, notes) {
       //if (search.includes("cambridge")) console.log(methods[i].title + " "+i);
       //console.log(search);
       let locs = regex(str, search);
+      if (locs.length === 0) {
+        locs = regex(str, search+"s");
+      }
       if (locs.length > 0) {
         let rep = search;
         let leavein = leave.find(w => search.endsWith(w));

@@ -84,6 +84,10 @@ var others = [
     ], class: "Surprise", stage: 6}
   },
   {
+    abbr: ["lbfg"],
+    const: {group: ["London Surprise Major", "Bristol Surprise Major", "Belfast Surprise Major", "Glasgow Surprise Major"], class: "Surprise", stage: 8}
+  },
+  {
     abbr: ["Berverley", "Beverly"],
     const: {title: "Beverley Surprise Minor", class: "Surprise", stage: 6}
   },

@@ -18,6 +18,16 @@ var nameSchema = new Schema({
       stages: [Number]
     }
   ]
-})
+});
+
+nameSchema
+.virtual('total')
+.get(function () {
+  let num = 0;
+  this.classes.forEach(cl => {
+    num += cl.stages.length
+  });
+  return num;
+});
 
 module.exports = mongoose.model("name", nameSchema);

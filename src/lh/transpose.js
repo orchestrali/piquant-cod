@@ -1,5 +1,6 @@
 const places = require('../places.js');
 
+//given a row (lh) and a transposition (tr), transpose the row
 module.exports = function transpose(lh, tr) {
   let newlh = '';
   

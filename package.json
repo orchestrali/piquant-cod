@@ -12,12 +12,13 @@
   "dependencies": {
     "decompress": "^4.2.0",
     "express": "^4.16.4",
-    "mongoose": "^5.4.15",
+    "mongoose": "^5.6.9",
     "morgan": "^1.9.1",
     "request": "^2.88.0",
     "rimraf": "^2.6.3",
     "winston": "^3.2.1",
-    "xml-to-json-stream": "^1.1.0"
+    "xml-to-json-stream": "^1.1.0",
+    "shoetest": "^1.0.1"
   },
   "engines": {
     "node": "8.x"
