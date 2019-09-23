@@ -1,6 +1,6 @@
 var perfs = require('./performance.json');
 var notes = require('./perfornotes.json');
-const run = require('./bb/a.js');
+//const run = require('./bb/a.js');
 const fs = require('fs');
 const s = require('stream');
 
@@ -11,8 +11,9 @@ var dne = [];
 var duplicates = [];
 //440717 = 1!!!
 
-module.exports = function bbcycle(action, start, x, cb) {
-  let connection = connect();
+module.exports = function bbcycle(action, start, x, path, cb) {
+  let f = require(path);
+  //let connection = connect();
   let num = start === 0 ? perfs[perfs.length-1].bbNum + 1 : start;
   if (action === "redo") {
     perfs = [];
@@ -26,7 +27,8 @@ module.exports = function bbcycle(action, start, x, cb) {
   function loop(n) {
     if (!exclude.includes(n)) {
       try {
-        run(n, prev, (err, obj, note, body) => {
+        if (i%200 === 0) console.log("working "+n);
+        f(n, prev, (err, obj, note, body) => {
           if (err) {
             notes.push({err: err, num: n});
             write(notes);

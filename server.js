@@ -55,30 +55,43 @@ const updateApps = require('./src/updateApps.js');
 const addCalls = require('./src/addCalls.js');
 const connect = require('./src/mongoose/connect2.js');
 const find = require('./src/find/findFields.js');
+const findmax = require('./src/find/findmax.js');
 const del = require('./src/find/delete.js');
 const refs = require('./src/reference/refs.js');
+const track = require('./src/track.js');
 //const getbb = require('./src/bb/a.js');
 const bbcycle = require('./src/bbcycle.js');
 const names = require('./src/names/add.js');
 const pro = require('./src/process.js');
+//const analyze = require('./src/query.js');
+const prune = require('./src/bb/prune.js');
 //const compare = require('./src/bb/rawtext.js');
 const bbmaster = require('./src/bbmaster.js');
-//pro();
+const bbmaster2 = require('./src/bbmaster2.js');
+const update = require('./src/find/updateMany.js');
+//pro((info) => listen.info(info));
 var shoetest = require('shoetest');
-var test = 'camridge'
+//var test = 'camridge'
 
 //connect();
-//listen.info(shoetest.test("st alban", test, {end: "s?"}))
+//listen.info(shoetest.test("st alban", test, {end: "s?"}));
+//listen.info(track());
+//track();
 //addCalls();
 //compare(30000);
 //var db = connect();
-//del(db, 'bbperformances', {bbNum: {$gt: 1002}}, () => {listen.info("done")})
+//del(db, 'bbperformances', {bbNum: {$gt: 1002}}, () => {listen.info("done")});
+//prune();
 
+//update(db, {coll: "bbtexts", query: {bbNum: {$in: [62311, 64975]}}, update: {$set: {recordlength: true}}}, () => {});
 //find("bbperformance", {query: {}, fields: "titleFull"}, (rr) => {listen.info(rr.filter(r => refs.stageNames.every(s => !r.titleFull.toLowerCase().includes(s))))});
-//bbmaster(909, 1, null, () => {listen.info("done")});
-//bbcycle("redo", 1001, 1, () => {listen.info("done")});
+//find("bbtext", {query: {methods: {$size: 1}}, fields: "title"}, (rr) => {console.log(rr.length)});
+//findmax("bbtext", {}, "-bbNum", (r) => {listen.info(r[0].bbNum)});
+//bbmaster2(null, 100, null, () => {listen.info("done")});
+//bbcycle("redo", 379839, 1, './bb/text.js', (p, du, dn) => {listen.info(p)});
 //getbb(1293136, () => {listen.info("done")});
-
+var x ;
+//listen.info(Math.max(...[123, 456]))
 //names(() => listen.info("all done"));
 
 var date2 = '2019-01-09T00:27:00.937Z';
@@ -101,7 +114,7 @@ app.get('/', function(request, response) {
 
 app.get('/'+process.env.SECRET3, function(request, response) {
   //compare(100000);
-  bbmaster(null, 100, request._startTime, () => {listen.info("done")});
+  bbmaster2(null, 1000, request._startTime, () => {listen.info("done")});
   response.sendStatus(200);
 });
 

@@ -46,7 +46,7 @@ module.exports = function directTraffic(query, time, cb) {
       } else {
         logger.info('number of methods: ' + results.methods.length);
         logger.info('number of performances: ' + results.performances.length);
-        logger.info('number of methods above & below: ' + results.aboveBelow.length);
+        logger.info('number of methods above & below: ' + results.methodabs.length);
 
         connectDrop(["methods", "performances", "methodabs"], (db) => {
           let i = 0;

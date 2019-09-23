@@ -1,11 +1,4806 @@
 [
   {
-    "num": 1001,
-    "notes": [],
-    "multitext": [],
-    "titles": [
-      "Plain Bob Major"
+    "num": 440043,
+    "notes": []
+  },
+  {
+    "num": 440044,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440045,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440046,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440047,
+    "notes": []
+  },
+  {
+    "num": 440048,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440049,
+    "notes": []
+  },
+  {
+    "num": 440050,
+    "notes": []
+  },
+  {
+    "num": 440051,
+    "notes": []
+  },
+  {
+    "num": 440052,
+    "notes": []
+  },
+  {
+    "num": 440053,
+    "notes": []
+  },
+  {
+    "num": 440054,
+    "notes": []
+  },
+  {
+    "num": 440055,
+    "notes": []
+  },
+  {
+    "num": 440056,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
     ],
-    "nonMethods": []
+    "notes": []
+  },
+  {
+    "num": 440057,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440058,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440059,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440060,
+    "notes": []
+  },
+  {
+    "num": 440061,
+    "notes": []
+  },
+  {
+    "num": 440062,
+    "notes": []
+  },
+  {
+    "num": 440063,
+    "notes": []
+  },
+  {
+    "num": 440064,
+    "notes": []
+  },
+  {
+    "num": 440065,
+    "notes": []
+  },
+  {
+    "num": 440066,
+    "notes": []
+  },
+  {
+    "num": 440067,
+    "notes": []
+  },
+  {
+    "num": 440068,
+    "notes": []
+  },
+  {
+    "num": 440069,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440070,
+    "notes": []
+  },
+  {
+    "num": 440071,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440072,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440073,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440074,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440075,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440076,
+    "notes": []
+  },
+  {
+    "num": 440077,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440078,
+    "notes": []
+  },
+  {
+    "num": 440079,
+    "notes": []
+  },
+  {
+    "num": 440080,
+    "notes": []
+  },
+  {
+    "num": 440081,
+    "notes": []
+  },
+  {
+    "num": 440082,
+    "notes": []
+  },
+  {
+    "num": 440083,
+    "notes": []
+  },
+  {
+    "num": 440084,
+    "notes": []
+  },
+  {
+    "num": 440085,
+    "notes": []
+  },
+  {
+    "num": 440086,
+    "notes": []
+  },
+  {
+    "num": 440087,
+    "notes": []
+  },
+  {
+    "num": 440088,
+    "notes": []
+  },
+  {
+    "num": 440089,
+    "notes": []
+  },
+  {
+    "num": 440090,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440091,
+    "notes": []
+  },
+  {
+    "num": 440092,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440093,
+    "notes": []
+  },
+  {
+    "num": 440094,
+    "notes": []
+  },
+  {
+    "num": 440095,
+    "notes": []
+  },
+  {
+    "num": 440096,
+    "notes": []
+  },
+  {
+    "num": 440097,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£5.00"
+      }
+    ],
+    "notes": [],
+    "multitext": [
+      "event"
+    ]
+  },
+  {
+    "num": 440098,
+    "notes": []
+  },
+  {
+    "num": 440099,
+    "notes": []
+  },
+  {
+    "num": 440100,
+    "notes": []
+  },
+  {
+    "num": 440101,
+    "notes": []
+  },
+  {
+    "num": 440102,
+    "notes": []
+  },
+  {
+    "num": 440103,
+    "notes": []
+  },
+  {
+    "num": 440104,
+    "notes": []
+  },
+  {
+    "num": 440105,
+    "notes": []
+  },
+  {
+    "num": 440106,
+    "notes": []
+  },
+  {
+    "num": 440107,
+    "notes": []
+  },
+  {
+    "num": 440108,
+    "notes": []
+  },
+  {
+    "num": 440109,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440110,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440111,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440112,
+    "notes": []
+  },
+  {
+    "num": 440113,
+    "notes": []
+  },
+  {
+    "num": 440114,
+    "notes": []
+  },
+  {
+    "num": 440115,
+    "notes": []
+  },
+  {
+    "num": 440116,
+    "notes": []
+  },
+  {
+    "num": 440117,
+    "notes": []
+  },
+  {
+    "num": 440118,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440119,
+    "notes": []
+  },
+  {
+    "num": 440120,
+    "notes": []
+  },
+  {
+    "num": 440121,
+    "notes": []
+  },
+  {
+    "num": 440122,
+    "notes": []
+  },
+  {
+    "num": 440123,
+    "notes": []
+  },
+  {
+    "num": 440124,
+    "notes": []
+  },
+  {
+    "num": 440125,
+    "notes": []
+  },
+  {
+    "num": 440126,
+    "notes": []
+  },
+  {
+    "num": 440127,
+    "notes": []
+  },
+  {
+    "num": 440128,
+    "notes": []
+  },
+  {
+    "num": 440129,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440130,
+    "notes": []
+  },
+  {
+    "num": 440131,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440132,
+    "notes": []
+  },
+  {
+    "num": 440133,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440134,
+    "notes": []
+  },
+  {
+    "num": 440135,
+    "notes": []
+  },
+  {
+    "num": 440136,
+    "notes": []
+  },
+  {
+    "num": 440137,
+    "notes": []
+  },
+  {
+    "num": 440138,
+    "notes": []
+  },
+  {
+    "num": 440139,
+    "notes": []
+  },
+  {
+    "num": 440140,
+    "notes": []
+  },
+  {
+    "num": 440141,
+    "notes": []
+  },
+  {
+    "num": 440142,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440143,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440144,
+    "notes": []
+  },
+  {
+    "num": 440145,
+    "notes": []
+  },
+  {
+    "num": 440146,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440147,
+    "notes": []
+  },
+  {
+    "num": 440148,
+    "notes": []
+  },
+  {
+    "num": 440149,
+    "notes": []
+  },
+  {
+    "num": 440150,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440151,
+    "notes": []
+  },
+  {
+    "num": 440152,
+    "notes": []
+  },
+  {
+    "num": 440153,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440154,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440155,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440156,
+    "notes": []
+  },
+  {
+    "num": 440157,
+    "notes": []
+  },
+  {
+    "num": 440158,
+    "notes": []
+  },
+  {
+    "num": 440159,
+    "notes": []
+  },
+  {
+    "num": 440160,
+    "notes": []
+  },
+  {
+    "num": 440161,
+    "notes": []
+  },
+  {
+    "num": 440162,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440163,
+    "notes": []
+  },
+  {
+    "num": 440164,
+    "notes": []
+  },
+  {
+    "num": 440165,
+    "notes": []
+  },
+  {
+    "num": 440166,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440167,
+    "notes": []
+  },
+  {
+    "num": 440168,
+    "notes": []
+  },
+  {
+    "num": 440169,
+    "notes": []
+  },
+  {
+    "num": 440170,
+    "notes": []
+  },
+  {
+    "num": 440171,
+    "notes": []
+  },
+  {
+    "num": 440172,
+    "notes": []
+  },
+  {
+    "num": 440173,
+    "notes": []
+  },
+  {
+    "num": 440174,
+    "notes": []
+  },
+  {
+    "num": 440175,
+    "notes": []
+  },
+  {
+    "num": 440176,
+    "notes": []
+  },
+  {
+    "num": 440177,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440178,
+    "notes": []
+  },
+  {
+    "num": 440179,
+    "notes": []
+  },
+  {
+    "num": 440180,
+    "notes": []
+  },
+  {
+    "num": 440181,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440182,
+    "notes": []
+  },
+  {
+    "num": 440183,
+    "notes": []
+  },
+  {
+    "num": 440184,
+    "notes": []
+  },
+  {
+    "num": 440185,
+    "notes": []
+  },
+  {
+    "num": 440186,
+    "notes": []
+  },
+  {
+    "num": 440187,
+    "notes": []
+  },
+  {
+    "num": 440188,
+    "notes": []
+  },
+  {
+    "num": 440189,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440190,
+    "notes": []
+  },
+  {
+    "num": 440191,
+    "notes": []
+  },
+  {
+    "num": 440192,
+    "notes": []
+  },
+  {
+    "num": 440193,
+    "notes": []
+  },
+  {
+    "num": 440194,
+    "notes": []
+  },
+  {
+    "num": 440195,
+    "notes": []
+  },
+  {
+    "num": 440196,
+    "notes": []
+  },
+  {
+    "num": 440197,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440198,
+    "notes": []
+  },
+  {
+    "num": 440199,
+    "notes": []
+  },
+  {
+    "num": 440200,
+    "notes": []
+  },
+  {
+    "num": 440201,
+    "notes": []
+  },
+  {
+    "num": 440202,
+    "notes": []
+  },
+  {
+    "num": 440203,
+    "notes": []
+  },
+  {
+    "num": 440204,
+    "notes": []
+  },
+  {
+    "num": 440205,
+    "notes": []
+  },
+  {
+    "num": 440206,
+    "notes": []
+  },
+  {
+    "num": 440207,
+    "notes": []
+  },
+  {
+    "num": 440208,
+    "notes": []
+  },
+  {
+    "num": 440209,
+    "notes": []
+  },
+  {
+    "num": 440210,
+    "notes": []
+  },
+  {
+    "num": 440211,
+    "notes": []
+  },
+  {
+    "num": 440212,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440213,
+    "notes": []
+  },
+  {
+    "num": 440214,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440215,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440216,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440217,
+    "notes": []
+  },
+  {
+    "num": 440218,
+    "notes": []
+  },
+  {
+    "num": 440219,
+    "notes": []
+  },
+  {
+    "num": 440220,
+    "notes": []
+  },
+  {
+    "num": 440221,
+    "notes": []
+  },
+  {
+    "num": 440222,
+    "notes": []
+  },
+  {
+    "num": 440223,
+    "notes": []
+  },
+  {
+    "num": 440224,
+    "notes": []
+  },
+  {
+    "num": 440225,
+    "notes": []
+  },
+  {
+    "num": 440226,
+    "notes": []
+  },
+  {
+    "num": 440227,
+    "notes": []
+  },
+  {
+    "num": 440228,
+    "notes": []
+  },
+  {
+    "num": 440229,
+    "notes": []
+  },
+  {
+    "num": 440230,
+    "notes": []
+  },
+  {
+    "num": 440231,
+    "notes": []
+  },
+  {
+    "num": 440232,
+    "notes": []
+  },
+  {
+    "num": 440233,
+    "notes": []
+  },
+  {
+    "num": 440234,
+    "notes": []
+  },
+  {
+    "num": 440235,
+    "notes": []
+  },
+  {
+    "num": 440236,
+    "notes": []
+  },
+  {
+    "num": 440237,
+    "notes": []
+  },
+  {
+    "num": 440238,
+    "notes": []
+  },
+  {
+    "num": 440239,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440240,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440241,
+    "notes": []
+  },
+  {
+    "num": 440242,
+    "notes": []
+  },
+  {
+    "num": 440243,
+    "notes": []
+  },
+  {
+    "num": 440244,
+    "notes": []
+  },
+  {
+    "num": 440245,
+    "notes": []
+  },
+  {
+    "num": 440246,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440247,
+    "notes": []
+  },
+  {
+    "num": 440248,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440249,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440250,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440251,
+    "notes": []
+  },
+  {
+    "num": 440252,
+    "notes": []
+  },
+  {
+    "num": 440253,
+    "notes": []
+  },
+  {
+    "num": 440254,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440255,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440256,
+    "notes": []
+  },
+  {
+    "num": 440257,
+    "notes": []
+  },
+  {
+    "num": 440258,
+    "notes": []
+  },
+  {
+    "num": 440259,
+    "notes": []
+  },
+  {
+    "num": 440260,
+    "notes": []
+  },
+  {
+    "num": 440261,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£4.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440262,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440263,
+    "notes": []
+  },
+  {
+    "num": 440264,
+    "notes": []
+  },
+  {
+    "num": 440265,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440266,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440267,
+    "notes": []
+  },
+  {
+    "num": 440268,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440269,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440270,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440271,
+    "notes": []
+  },
+  {
+    "num": 440272,
+    "notes": []
+  },
+  {
+    "num": 440273,
+    "notes": []
+  },
+  {
+    "num": 440274,
+    "notes": []
+  },
+  {
+    "num": 440275,
+    "notes": []
+  },
+  {
+    "num": 440276,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440277,
+    "notes": []
+  },
+  {
+    "num": 440278,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440279,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440280,
+    "notes": []
+  },
+  {
+    "num": 440281,
+    "notes": []
+  },
+  {
+    "num": 440282,
+    "notes": []
+  },
+  {
+    "num": 440283,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440284,
+    "notes": []
+  },
+  {
+    "num": 440285,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440286,
+    "notes": []
+  },
+  {
+    "num": 440287,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440288,
+    "notes": []
+  },
+  {
+    "num": 440289,
+    "notes": []
+  },
+  {
+    "num": 440290,
+    "notes": []
+  },
+  {
+    "num": 440291,
+    "notes": []
+  },
+  {
+    "num": 440292,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440293,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440294,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440295,
+    "notes": []
+  },
+  {
+    "num": 440296,
+    "notes": []
+  },
+  {
+    "num": 440297,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440298,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440299,
+    "notes": []
+  },
+  {
+    "num": 440300,
+    "notes": []
+  },
+  {
+    "num": 440301,
+    "notes": []
+  },
+  {
+    "num": 440302,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440303,
+    "notes": []
+  },
+  {
+    "num": 440304,
+    "notes": []
+  },
+  {
+    "num": 440305,
+    "notes": []
+  },
+  {
+    "num": 440306,
+    "notes": []
+  },
+  {
+    "num": 440307,
+    "notes": []
+  },
+  {
+    "num": 440308,
+    "notes": []
+  },
+  {
+    "num": 440309,
+    "notes": []
+  },
+  {
+    "num": 440310,
+    "notes": []
+  },
+  {
+    "num": 440311,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440312,
+    "notes": []
+  },
+  {
+    "num": 440313,
+    "notes": []
+  },
+  {
+    "num": 440314,
+    "notes": []
+  },
+  {
+    "num": 440315,
+    "notes": []
+  },
+  {
+    "num": 440316,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440317,
+    "notes": []
+  },
+  {
+    "num": 440318,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440319,
+    "notes": []
+  },
+  {
+    "num": 440320,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440321,
+    "notes": []
+  },
+  {
+    "num": 440322,
+    "notes": []
+  },
+  {
+    "num": 440323,
+    "notes": []
+  },
+  {
+    "num": 440324,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440325,
+    "notes": []
+  },
+  {
+    "num": 440326,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440327,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440328,
+    "notes": []
+  },
+  {
+    "num": 440329,
+    "notes": []
+  },
+  {
+    "num": 440330,
+    "notes": []
+  },
+  {
+    "num": 440331,
+    "notes": []
+  },
+  {
+    "num": 440332,
+    "notes": []
+  },
+  {
+    "num": 440334,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440335,
+    "notes": []
+  },
+  {
+    "num": 440336,
+    "notes": []
+  },
+  {
+    "num": 440337,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440338,
+    "notes": []
+  },
+  {
+    "num": 440339,
+    "notes": []
+  },
+  {
+    "num": 440340,
+    "notes": []
+  },
+  {
+    "num": 440341,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440342,
+    "notes": []
+  },
+  {
+    "num": 440343,
+    "notes": []
+  },
+  {
+    "num": 440344,
+    "notes": []
+  },
+  {
+    "num": 440345,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440346,
+    "notes": []
+  },
+  {
+    "num": 440347,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440348,
+    "notes": []
+  },
+  {
+    "num": 440349,
+    "notes": []
+  },
+  {
+    "num": 440350,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440351,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440352,
+    "notes": []
+  },
+  {
+    "num": 440353,
+    "notes": []
+  },
+  {
+    "num": 440354,
+    "notes": []
+  },
+  {
+    "num": 440355,
+    "notes": []
+  },
+  {
+    "num": 440356,
+    "notes": []
+  },
+  {
+    "num": 440357,
+    "notes": []
+  },
+  {
+    "num": 440358,
+    "notes": []
+  },
+  {
+    "num": 440359,
+    "notes": []
+  },
+  {
+    "num": 440360,
+    "notes": []
+  },
+  {
+    "num": 440362,
+    "notes": []
+  },
+  {
+    "num": 440363,
+    "notes": []
+  },
+  {
+    "num": 440364,
+    "notes": []
+  },
+  {
+    "num": 440365,
+    "notes": []
+  },
+  {
+    "num": 440366,
+    "notes": []
+  },
+  {
+    "num": 440367,
+    "notes": []
+  },
+  {
+    "num": 440368,
+    "notes": []
+  },
+  {
+    "num": 440369,
+    "notes": []
+  },
+  {
+    "num": 440370,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440371,
+    "notes": []
+  },
+  {
+    "num": 440372,
+    "notes": []
+  },
+  {
+    "num": 440373,
+    "notes": []
+  },
+  {
+    "num": 440374,
+    "notes": []
+  },
+  {
+    "num": 440375,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440376,
+    "notes": []
+  },
+  {
+    "num": 440377,
+    "notes": []
+  },
+  {
+    "num": 440378,
+    "notes": []
+  },
+  {
+    "num": 440379,
+    "notes": []
+  },
+  {
+    "num": 440380,
+    "notes": []
+  },
+  {
+    "num": 440381,
+    "notes": []
+  },
+  {
+    "num": 440382,
+    "notes": []
+  },
+  {
+    "num": 440383,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440384,
+    "notes": []
+  },
+  {
+    "num": 440385,
+    "notes": []
+  },
+  {
+    "num": 440386,
+    "notes": []
+  },
+  {
+    "num": 440387,
+    "notes": []
+  },
+  {
+    "num": 440388,
+    "notes": []
+  },
+  {
+    "num": 440389,
+    "notes": []
+  },
+  {
+    "num": 440390,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440391,
+    "notes": []
+  },
+  {
+    "num": 440392,
+    "notes": []
+  },
+  {
+    "num": 440393,
+    "notes": []
+  },
+  {
+    "num": 440394,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440395,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440396,
+    "notes": []
+  },
+  {
+    "num": 440397,
+    "notes": []
+  },
+  {
+    "num": 440398,
+    "notes": []
+  },
+  {
+    "num": 440399,
+    "notes": []
+  },
+  {
+    "num": 440400,
+    "notes": []
+  },
+  {
+    "num": 440401,
+    "notes": []
+  },
+  {
+    "num": 440402,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440403,
+    "notes": []
+  },
+  {
+    "num": 440404,
+    "notes": []
+  },
+  {
+    "num": 440405,
+    "notes": []
+  },
+  {
+    "num": 440406,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440407,
+    "notes": []
+  },
+  {
+    "num": 440408,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440409,
+    "notes": []
+  },
+  {
+    "num": 440410,
+    "notes": []
+  },
+  {
+    "num": 440411,
+    "notes": []
+  },
+  {
+    "num": 440412,
+    "notes": []
+  },
+  {
+    "num": 440413,
+    "notes": []
+  },
+  {
+    "num": 440414,
+    "notes": []
+  },
+  {
+    "num": 440415,
+    "notes": []
+  },
+  {
+    "num": 440416,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£2.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440417,
+    "notes": []
+  },
+  {
+    "num": 440418,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440419,
+    "notes": []
+  },
+  {
+    "num": 440420,
+    "notes": []
+  },
+  {
+    "num": 440421,
+    "notes": []
+  },
+  {
+    "num": 440422,
+    "notes": []
+  },
+  {
+    "num": 440423,
+    "notes": []
+  },
+  {
+    "num": 440424,
+    "notes": []
+  },
+  {
+    "num": 440425,
+    "notes": []
+  },
+  {
+    "num": 440426,
+    "notes": []
+  },
+  {
+    "num": 440427,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440428,
+    "notes": []
+  },
+  {
+    "num": 440429,
+    "notes": [],
+    "multitext": [
+      "event"
+    ]
+  },
+  {
+    "num": 440430,
+    "notes": []
+  },
+  {
+    "num": 440431,
+    "notes": []
+  },
+  {
+    "num": 440432,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440433,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440434,
+    "notes": []
+  },
+  {
+    "num": 440435,
+    "notes": []
+  },
+  {
+    "num": 440436,
+    "notes": []
+  },
+  {
+    "num": 440437,
+    "notes": []
+  },
+  {
+    "num": 440438,
+    "notes": []
+  },
+  {
+    "num": 440439,
+    "notes": []
+  },
+  {
+    "num": 440440,
+    "notes": []
+  },
+  {
+    "num": 440441,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440442,
+    "notes": []
+  },
+  {
+    "num": 440443,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440444,
+    "notes": []
+  },
+  {
+    "num": 440445,
+    "notes": []
+  },
+  {
+    "num": 440446,
+    "notes": []
+  },
+  {
+    "num": 440447,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440448,
+    "notes": []
+  },
+  {
+    "num": 440449,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440450,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440451,
+    "notes": []
+  },
+  {
+    "num": 440452,
+    "notes": []
+  },
+  {
+    "num": 440453,
+    "notes": []
+  },
+  {
+    "num": 440454,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£3.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440455,
+    "notes": []
+  },
+  {
+    "num": 440456,
+    "notes": []
+  },
+  {
+    "num": 440457,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440458,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440459,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440460,
+    "notes": []
+  },
+  {
+    "num": 440461,
+    "notes": []
+  },
+  {
+    "num": 440462,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440463,
+    "notes": []
+  },
+  {
+    "num": 440464,
+    "notes": []
+  },
+  {
+    "num": 440465,
+    "notes": []
+  },
+  {
+    "num": 440466,
+    "notes": []
+  },
+  {
+    "num": 440467,
+    "notes": []
+  },
+  {
+    "num": 440468,
+    "notes": []
+  },
+  {
+    "num": 440469,
+    "notes": []
+  },
+  {
+    "num": 440470,
+    "notes": []
+  },
+  {
+    "num": 440471,
+    "notes": []
+  },
+  {
+    "num": 440472,
+    "notes": []
+  },
+  {
+    "num": 440473,
+    "notes": []
+  },
+  {
+    "num": 440474,
+    "notes": []
+  },
+  {
+    "num": 440475,
+    "notes": []
+  },
+  {
+    "num": 440476,
+    "notes": []
+  },
+  {
+    "num": 440477,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440478,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440479,
+    "notes": []
+  },
+  {
+    "num": 440480,
+    "notes": []
+  },
+  {
+    "num": 440481,
+    "notes": []
+  },
+  {
+    "num": 440482,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440483,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440484,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440485,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440486,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440487,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440488,
+    "notes": []
+  },
+  {
+    "num": 440489,
+    "notes": []
+  },
+  {
+    "num": 440490,
+    "notes": []
+  },
+  {
+    "num": 440491,
+    "notes": []
+  },
+  {
+    "num": 440492,
+    "notes": []
+  },
+  {
+    "num": 440493,
+    "notes": []
+  },
+  {
+    "num": 440494,
+    "notes": []
+  },
+  {
+    "num": 440495,
+    "notes": []
+  },
+  {
+    "num": 440496,
+    "notes": []
+  },
+  {
+    "num": 440497,
+    "notes": []
+  },
+  {
+    "num": 440498,
+    "notes": []
+  },
+  {
+    "num": 440499,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£3.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440500,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£3.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440501,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440502,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440503,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440504,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£3.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440505,
+    "notes": []
+  },
+  {
+    "num": 440506,
+    "notes": []
+  },
+  {
+    "num": 440507,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440508,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440509,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440510,
+    "notes": []
+  },
+  {
+    "num": 440511,
+    "notes": []
+  },
+  {
+    "num": 440512,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440513,
+    "notes": []
+  },
+  {
+    "num": 440514,
+    "notes": []
+  },
+  {
+    "num": 440515,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440516,
+    "notes": []
+  },
+  {
+    "num": 440517,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440518,
+    "notes": []
+  },
+  {
+    "num": 440519,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440520,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440521,
+    "notes": []
+  },
+  {
+    "num": 440522,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440523,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440524,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440525,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440526,
+    "notes": []
+  },
+  {
+    "num": 440527,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£2.50"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440528,
+    "notes": []
+  },
+  {
+    "num": 440529,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£5.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440530,
+    "notes": []
+  },
+  {
+    "num": 440531,
+    "notes": []
+  },
+  {
+    "num": 440532,
+    "notes": []
+  },
+  {
+    "num": 440533,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440534,
+    "notes": []
+  },
+  {
+    "num": 440535,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440536,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440537,
+    "notes": []
+  },
+  {
+    "num": 440538,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440539,
+    "notes": [],
+    "multitext": [
+      "event"
+    ]
+  },
+  {
+    "num": 440540,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440541,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440542,
+    "notes": []
+  },
+  {
+    "num": 440543,
+    "notes": []
+  },
+  {
+    "num": 440544,
+    "notes": []
+  },
+  {
+    "num": 440545,
+    "notes": []
+  },
+  {
+    "num": 440546,
+    "notes": []
+  },
+  {
+    "num": 440547,
+    "notes": []
+  },
+  {
+    "num": 440548,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440549,
+    "notes": []
+  },
+  {
+    "num": 440550,
+    "notes": []
+  },
+  {
+    "num": 440551,
+    "notes": []
+  },
+  {
+    "num": 440552,
+    "notes": []
+  },
+  {
+    "num": 440553,
+    "notes": []
+  },
+  {
+    "num": 440554,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440555,
+    "notes": []
+  },
+  {
+    "num": 440556,
+    "notes": []
+  },
+  {
+    "num": 440557,
+    "notes": []
+  },
+  {
+    "num": 440558,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440559,
+    "notes": []
+  },
+  {
+    "num": 440560,
+    "notes": []
+  },
+  {
+    "num": 440561,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440562,
+    "notes": []
+  },
+  {
+    "num": 440563,
+    "notes": []
+  },
+  {
+    "num": 440564,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440565,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£3.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440566,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440567,
+    "notes": []
+  },
+  {
+    "num": 440568,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440569,
+    "notes": []
+  },
+  {
+    "num": 440570,
+    "notes": []
+  },
+  {
+    "num": 440571,
+    "notes": []
+  },
+  {
+    "num": 440572,
+    "notes": []
+  },
+  {
+    "num": 440573,
+    "notes": []
+  },
+  {
+    "num": 440574,
+    "notes": []
+  },
+  {
+    "num": 440575,
+    "notes": []
+  },
+  {
+    "num": 440576,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440577,
+    "notes": []
+  },
+  {
+    "num": 440578,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440579,
+    "notes": []
+  },
+  {
+    "num": 440580,
+    "notes": []
+  },
+  {
+    "num": 440581,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440582,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£2.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440583,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440584,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440585,
+    "notes": []
+  },
+  {
+    "num": 440586,
+    "notes": []
+  },
+  {
+    "num": 440587,
+    "notes": []
+  },
+  {
+    "num": 440588,
+    "notes": []
+  },
+  {
+    "num": 440589,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440590,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440591,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440592,
+    "notes": []
+  },
+  {
+    "num": 440593,
+    "notes": []
+  },
+  {
+    "num": 440594,
+    "notes": []
+  },
+  {
+    "num": 440595,
+    "notes": []
+  },
+  {
+    "num": 440596,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440597,
+    "notes": []
+  },
+  {
+    "num": 440598,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440599,
+    "notes": []
+  },
+  {
+    "num": 440600,
+    "notes": []
+  },
+  {
+    "num": 440601,
+    "notes": []
+  },
+  {
+    "num": 440602,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440603,
+    "notes": []
+  },
+  {
+    "num": 440604,
+    "notes": []
+  },
+  {
+    "num": 440605,
+    "notes": []
+  },
+  {
+    "num": 440606,
+    "notes": []
+  },
+  {
+    "num": 440607,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440608,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440609,
+    "notes": []
+  },
+  {
+    "num": 440610,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440611,
+    "notes": []
+  },
+  {
+    "num": 440612,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440613,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440614,
+    "notes": []
+  },
+  {
+    "num": 440615,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440616,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440617,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440618,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440619,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440620,
+    "notes": []
+  },
+  {
+    "num": 440621,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440622,
+    "notes": []
+  },
+  {
+    "num": 440623,
+    "notes": []
+  },
+  {
+    "num": 440624,
+    "notes": []
+  },
+  {
+    "num": 440625,
+    "notes": []
+  },
+  {
+    "num": 440626,
+    "notes": []
+  },
+  {
+    "num": 440627,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440628,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440629,
+    "notes": []
+  },
+  {
+    "num": 440630,
+    "notes": []
+  },
+  {
+    "num": 440631,
+    "notes": []
+  },
+  {
+    "num": 440632,
+    "notes": []
+  },
+  {
+    "num": 440633,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440634,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440635,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440636,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440637,
+    "notes": []
+  },
+  {
+    "num": 440638,
+    "notes": []
+  },
+  {
+    "num": 440639,
+    "notes": []
+  },
+  {
+    "num": 440640,
+    "notes": []
+  },
+  {
+    "num": 440641,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440642,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440643,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440644,
+    "notes": []
+  },
+  {
+    "num": 440645,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440646,
+    "notes": []
+  },
+  {
+    "num": 440647,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440648,
+    "notes": []
+  },
+  {
+    "num": 440649,
+    "notes": []
+  },
+  {
+    "num": 440650,
+    "notes": []
+  },
+  {
+    "num": 440651,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£4.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440652,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£2.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440653,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440654,
+    "notes": []
+  },
+  {
+    "num": 440655,
+    "notes": []
+  },
+  {
+    "num": 440656,
+    "notes": []
+  },
+  {
+    "num": 440657,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440658,
+    "notes": []
+  },
+  {
+    "num": 440659,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440660,
+    "notes": []
+  },
+  {
+    "num": 440661,
+    "notes": []
+  },
+  {
+    "num": 440662,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440663,
+    "notes": []
+  },
+  {
+    "num": 440664,
+    "notes": []
+  },
+  {
+    "num": 440665,
+    "notes": []
+  },
+  {
+    "num": 440666,
+    "notes": []
+  },
+  {
+    "num": 440667,
+    "notes": []
+  },
+  {
+    "num": 440668,
+    "notes": []
+  },
+  {
+    "num": 440669,
+    "notes": []
+  },
+  {
+    "num": 440670,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440671,
+    "notes": []
+  },
+  {
+    "num": 440672,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440673,
+    "notes": []
+  },
+  {
+    "num": 440674,
+    "notes": []
+  },
+  {
+    "num": 440675,
+    "notes": []
+  },
+  {
+    "num": 440676,
+    "notes": []
+  },
+  {
+    "num": 440677,
+    "notes": []
+  },
+  {
+    "num": 440678,
+    "notes": []
+  },
+  {
+    "num": 440679,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440680,
+    "notes": []
+  },
+  {
+    "num": 440681,
+    "notes": []
+  },
+  {
+    "num": 440682,
+    "notes": []
+  },
+  {
+    "num": 440683,
+    "notes": []
+  },
+  {
+    "num": 440684,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440685,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440686,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440687,
+    "notes": []
+  },
+  {
+    "num": 440688,
+    "notes": []
+  },
+  {
+    "num": 440689,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440690,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£3.00"
+      }
+    ],
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440691,
+    "notes": []
+  },
+  {
+    "num": 440692,
+    "notes": []
+  },
+  {
+    "num": 440693,
+    "notes": []
+  },
+  {
+    "num": 440694,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440695,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440696,
+    "notes": []
+  },
+  {
+    "num": 440697,
+    "notes": []
+  },
+  {
+    "num": 440698,
+    "notes": []
+  },
+  {
+    "num": 440699,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440700,
+    "notes": []
+  },
+  {
+    "num": 440701,
+    "notes": []
+  },
+  {
+    "num": 440702,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440703,
+    "notes": []
+  },
+  {
+    "num": 440704,
+    "notes": []
+  },
+  {
+    "num": 440705,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440706,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440707,
+    "notes": []
+  },
+  {
+    "num": 440708,
+    "notes": []
+  },
+  {
+    "num": 440709,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440710,
+    "notes": []
+  },
+  {
+    "num": 440711,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440712,
+    "notes": []
+  },
+  {
+    "num": 440713,
+    "notes": []
+  },
+  {
+    "num": 440714,
+    "notes": []
+  },
+  {
+    "num": 440715,
+    "notes": []
+  },
+  {
+    "num": 440716,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440717,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440718,
+    "notes": []
+  },
+  {
+    "num": 440719,
+    "notes": []
+  },
+  {
+    "num": 440720,
+    "notes": []
+  },
+  {
+    "num": 440721,
+    "notes": []
+  },
+  {
+    "num": 440722,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440723,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440724,
+    "notes": []
+  },
+  {
+    "num": 440725,
+    "notes": []
+  },
+  {
+    "num": 440726,
+    "notes": []
+  },
+  {
+    "num": 440727,
+    "notes": []
+  },
+  {
+    "num": 440728,
+    "notes": []
+  },
+  {
+    "num": 440729,
+    "notes": []
+  },
+  {
+    "num": 440730,
+    "notes": []
+  },
+  {
+    "num": 440731,
+    "notes": []
+  },
+  {
+    "num": 440732,
+    "notes": []
+  },
+  {
+    "num": 440733,
+    "notes": []
+  },
+  {
+    "num": 440734,
+    "notes": []
+  },
+  {
+    "num": 440735,
+    "notes": []
+  },
+  {
+    "num": 440736,
+    "notes": []
+  },
+  {
+    "num": 440737,
+    "notes": []
+  },
+  {
+    "num": 440738,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440739,
+    "notes": []
+  },
+  {
+    "num": 440740,
+    "notes": []
+  },
+  {
+    "num": 440741,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440742,
+    "notes": []
+  },
+  {
+    "num": 440743,
+    "notes": []
+  },
+  {
+    "num": 440744,
+    "notes": []
+  },
+  {
+    "num": 440745,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440746,
+    "notes": []
+  },
+  {
+    "num": 440747,
+    "notes": []
+  },
+  {
+    "num": 440748,
+    "notes": []
+  },
+  {
+    "num": 440749,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440751,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£4.00"
+      }
+    ],
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440752,
+    "notes": []
+  },
+  {
+    "num": 440753,
+    "notes": []
+  },
+  {
+    "num": 440754,
+    "notes": []
+  },
+  {
+    "num": 440755,
+    "notes": []
+  },
+  {
+    "num": 440757,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440758,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440761,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440762,
+    "notes": []
+  },
+  {
+    "num": 440763,
+    "notes": []
+  },
+  {
+    "num": 440764,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440765,
+    "notes": []
+  },
+  {
+    "num": 440766,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440767,
+    "notes": []
+  },
+  {
+    "num": 440768,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440769,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£10.00"
+      }
+    ],
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440770,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440771,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440773,
+    "notes": []
+  },
+  {
+    "num": 440774,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440775,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440777,
+    "notes": []
+  },
+  {
+    "num": 440778,
+    "notes": []
+  },
+  {
+    "num": 440779,
+    "notes": []
+  },
+  {
+    "num": 440780,
+    "notes": []
+  },
+  {
+    "num": 440781,
+    "notes": []
+  },
+  {
+    "num": 440782,
+    "notes": []
+  },
+  {
+    "num": 440784,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440786,
+    "notes": []
+  },
+  {
+    "num": 440787,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440789,
+    "notes": []
+  },
+  {
+    "num": 440790,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440791,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440792,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440793,
+    "notes": []
+  },
+  {
+    "num": 440794,
+    "notes": []
+  },
+  {
+    "num": 440795,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440797,
+    "notes": []
+  },
+  {
+    "num": 440799,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£5.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440800,
+    "notes": []
+  },
+  {
+    "num": 440802,
+    "notes": []
+  },
+  {
+    "num": 440803,
+    "notes": []
+  },
+  {
+    "num": 440804,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440807,
+    "notes": [
+      "more than one footnote element"
+    ],
+    "multitext": [
+      "event"
+    ]
+  },
+  {
+    "num": 440808,
+    "notes": []
+  },
+  {
+    "num": 440809,
+    "notes": []
+  },
+  {
+    "num": 440810,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440811,
+    "notes": []
+  },
+  {
+    "num": 440812,
+    "notes": []
+  },
+  {
+    "num": 440813,
+    "notes": []
+  },
+  {
+    "num": 440814,
+    "notes": []
+  },
+  {
+    "num": 440815,
+    "notes": []
+  },
+  {
+    "num": 440816,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440818,
+    "notes": []
+  },
+  {
+    "num": 440819,
+    "notes": []
+  },
+  {
+    "num": 440820,
+    "notes": []
+  },
+  {
+    "num": 440821,
+    "notes": []
+  },
+  {
+    "num": 440822,
+    "notes": []
+  },
+  {
+    "num": 440823,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440825,
+    "notes": []
+  },
+  {
+    "num": 440826,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440827,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440828,
+    "notes": []
+  },
+  {
+    "num": 440829,
+    "notes": []
+  },
+  {
+    "num": 440830,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440831,
+    "notes": []
+  },
+  {
+    "num": 440832,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440833,
+    "notes": []
+  },
+  {
+    "num": 440835,
+    "notes": []
+  },
+  {
+    "num": 440836,
+    "notes": []
+  },
+  {
+    "num": 440837,
+    "notes": []
+  },
+  {
+    "num": 440838,
+    "notes": []
+  },
+  {
+    "num": 440850,
+    "notes": []
+  },
+  {
+    "num": 440852,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440853,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440854,
+    "notes": []
+  },
+  {
+    "num": 440855,
+    "notes": []
+  },
+  {
+    "num": 440856,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440857,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£3.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440858,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440859,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440860,
+    "notes": []
+  },
+  {
+    "num": 440861,
+    "notes": []
+  },
+  {
+    "num": 440862,
+    "notes": []
+  },
+  {
+    "num": 440863,
+    "notes": []
+  },
+  {
+    "num": 440864,
+    "notes": []
+  },
+  {
+    "num": 440865,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440866,
+    "notes": []
+  },
+  {
+    "num": 440867,
+    "notes": []
+  },
+  {
+    "num": 440868,
+    "notes": []
+  },
+  {
+    "num": 440869,
+    "notes": []
+  },
+  {
+    "num": 440871,
+    "notes": []
+  },
+  {
+    "num": 440872,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440873,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440875,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440877,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£3.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440878,
+    "notes": []
+  },
+  {
+    "num": 440879,
+    "notes": []
+  },
+  {
+    "num": 440880,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440881,
+    "notes": []
+  },
+  {
+    "num": 440882,
+    "notes": []
+  },
+  {
+    "num": 440883,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440884,
+    "notes": []
+  },
+  {
+    "num": 440885,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440886,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440887,
+    "notes": []
+  },
+  {
+    "num": 440888,
+    "notes": []
+  },
+  {
+    "num": 440889,
+    "notes": []
+  },
+  {
+    "num": 440890,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440891,
+    "notes": []
+  },
+  {
+    "num": 440892,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440893,
+    "notes": []
+  },
+  {
+    "num": 440894,
+    "notes": []
+  },
+  {
+    "num": 440895,
+    "notes": []
+  },
+  {
+    "num": 440896,
+    "notes": []
+  },
+  {
+    "num": 440897,
+    "notes": []
+  },
+  {
+    "num": 440898,
+    "notes": []
+  },
+  {
+    "num": 440899,
+    "notes": []
+  },
+  {
+    "num": 440900,
+    "notes": []
+  },
+  {
+    "num": 440901,
+    "notes": []
+  },
+  {
+    "num": 440902,
+    "notes": []
+  },
+  {
+    "num": 440903,
+    "notes": []
+  },
+  {
+    "num": 440904,
+    "notes": []
+  },
+  {
+    "num": 440905,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440906,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440907,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£4.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440908,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440909,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440910,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440911,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440912,
+    "notes": []
+  },
+  {
+    "num": 440913,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440914,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440915,
+    "notes": []
+  },
+  {
+    "num": 440916,
+    "notes": []
+  },
+  {
+    "num": 440917,
+    "notes": []
+  },
+  {
+    "num": 440918,
+    "notes": []
+  },
+  {
+    "num": 440919,
+    "notes": []
+  },
+  {
+    "num": 440920,
+    "notes": []
+  },
+  {
+    "num": 440921,
+    "notes": []
+  },
+  {
+    "num": 440922,
+    "notes": []
+  },
+  {
+    "num": 440923,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440924,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440925,
+    "notes": []
+  },
+  {
+    "num": 440926,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440928,
+    "notes": []
+  },
+  {
+    "num": 440930,
+    "notes": []
+  },
+  {
+    "num": 440931,
+    "notes": []
+  },
+  {
+    "num": 440932,
+    "notes": []
+  },
+  {
+    "num": 440933,
+    "notes": []
+  },
+  {
+    "num": 440935,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440936,
+    "notes": []
+  },
+  {
+    "num": 440937,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440938,
+    "notes": []
+  },
+  {
+    "num": 440939,
+    "notes": []
+  },
+  {
+    "num": 440940,
+    "notes": []
+  },
+  {
+    "num": 440941,
+    "notes": []
+  },
+  {
+    "num": 440943,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440944,
+    "notes": []
+  },
+  {
+    "num": 440945,
+    "notes": []
+  },
+  {
+    "num": 440946,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440947,
+    "notes": []
+  },
+  {
+    "num": 440949,
+    "notes": []
+  },
+  {
+    "num": 440950,
+    "notes": []
+  },
+  {
+    "num": 440951,
+    "notes": []
+  },
+  {
+    "num": 440953,
+    "notes": []
+  },
+  {
+    "num": 440955,
+    "notes": []
+  },
+  {
+    "num": 440956,
+    "notes": []
+  },
+  {
+    "num": 440957,
+    "notes": []
+  },
+  {
+    "num": 440958,
+    "notes": []
+  },
+  {
+    "num": 440959,
+    "notes": []
+  },
+  {
+    "num": 440960,
+    "notes": []
+  },
+  {
+    "num": 440961,
+    "notes": []
+  },
+  {
+    "num": 440962,
+    "notes": []
+  },
+  {
+    "num": 440963,
+    "notes": []
+  },
+  {
+    "num": 440964,
+    "notes": []
+  },
+  {
+    "num": 440965,
+    "notes": []
+  },
+  {
+    "num": 440966,
+    "notes": []
+  },
+  {
+    "num": 440967,
+    "notes": []
+  },
+  {
+    "num": 440968,
+    "notes": []
+  },
+  {
+    "num": 440969,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440970,
+    "notes": []
+  },
+  {
+    "num": 440971,
+    "notes": []
+  },
+  {
+    "num": 440972,
+    "notes": []
+  },
+  {
+    "num": 440973,
+    "notes": []
+  },
+  {
+    "num": 440974,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440976,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£4.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440977,
+    "notes": []
+  },
+  {
+    "num": 440978,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440980,
+    "notes": []
+  },
+  {
+    "num": 440981,
+    "notes": []
+  },
+  {
+    "num": 440982,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440983,
+    "notes": []
+  },
+  {
+    "num": 440985,
+    "notes": []
+  },
+  {
+    "num": 440986,
+    "notes": []
+  },
+  {
+    "num": 440987,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 440989,
+    "notes": []
+  },
+  {
+    "num": 440990,
+    "notes": []
+  },
+  {
+    "num": 440992,
+    "notes": []
+  },
+  {
+    "num": 440993,
+    "notes": []
+  },
+  {
+    "num": 440994,
+    "notes": []
+  },
+  {
+    "num": 440995,
+    "notes": []
+  },
+  {
+    "num": 440996,
+    "notes": []
+  },
+  {
+    "num": 440997,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 440998,
+    "notes": []
+  },
+  {
+    "num": 440999,
+    "notes": []
+  },
+  {
+    "num": 441000,
+    "notes": []
+  },
+  {
+    "num": 441001,
+    "notes": []
+  },
+  {
+    "num": 441002,
+    "notes": []
+  },
+  {
+    "num": 441003,
+    "notes": []
+  },
+  {
+    "num": 441005,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£4.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 441006,
+    "notes": []
+  },
+  {
+    "num": 441007,
+    "notes": []
+  },
+  {
+    "num": 441008,
+    "notes": []
+  },
+  {
+    "num": 441009,
+    "notes": []
+  },
+  {
+    "num": 441010,
+    "notes": []
+  },
+  {
+    "num": 441011,
+    "notes": []
+  },
+  {
+    "num": 441012,
+    "notes": []
+  },
+  {
+    "num": 441014,
+    "notes": []
+  },
+  {
+    "num": 441015,
+    "notes": []
+  },
+  {
+    "num": 441016,
+    "notes": []
+  },
+  {
+    "num": 441017,
+    "notes": []
+  },
+  {
+    "num": 441018,
+    "notes": []
+  },
+  {
+    "num": 441019,
+    "notes": []
+  },
+  {
+    "num": 441021,
+    "notes": []
+  },
+  {
+    "num": 441022,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 441023,
+    "notes": []
+  },
+  {
+    "num": 441024,
+    "notes": []
+  },
+  {
+    "num": 441025,
+    "notes": []
+  },
+  {
+    "num": 441027,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 441028,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 441030,
+    "notes": []
+  },
+  {
+    "num": 441031,
+    "notes": []
+  },
+  {
+    "num": 441032,
+    "notes": []
+  },
+  {
+    "num": 441033,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 441034,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£4.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 441035,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 441036,
+    "notes": []
+  },
+  {
+    "num": 441037,
+    "notes": []
+  },
+  {
+    "num": 441038,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£5.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 441039,
+    "notes": [
+      "more than one footnote element"
+    ]
+  },
+  {
+    "num": 441040,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£4.00"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 441041,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
+  },
+  {
+    "num": 441042,
+    "discard": [
+      {
+        "attribs": {
+          "class": "donation"
+        },
+        "text": "£BD"
+      }
+    ],
+    "notes": []
   }
 ]

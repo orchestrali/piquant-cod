@@ -22,9 +22,10 @@ module.exports = function buildObj(elems) {
     ringers: [],
     footnote: [],
     event: [],
+    record: [],
     discard: []
   };
-  var classes = [{class: "full-place", key: "location", subkey: "fullPlace"}, {class: "address", key: "location", subkey: "address"}, {class: "linked-events", key: "event"}];
+  var classes = [{class: "full-place", key: "location", subkey: "fullPlace"}, {class: "address", key: "location", subkey: "address"}, {class: "linked-events", key: "event"}, {class: "record-length", key: "record"}];
   let used = [];
   
   for (let i = 0; i < elems.length; i++) {
@@ -81,6 +82,7 @@ module.exports = function buildObj(elems) {
     
     
   }
-  
+  //console.log(prelim.title);
+  //console.log(prelim.ringers);
   return prelim;
 }

@@ -25,7 +25,7 @@ module.exports = function bbmaster(start, max, time, cb) {
       start = require('./start.js');
       writestart = true;
     }
-    bbcycle("redo", start, max, (perfs, dup, dne) => {
+    bbcycle("redo", start, max, './bb/a.js', (perfs, dup, dne) => {
       dup.forEach(d => duplicates.push(d));
       dne1 = dne1.concat(dne);
       find("bbperformance", {}, (results) => {
@@ -33,7 +33,7 @@ module.exports = function bbmaster(start, max, time, cb) {
         while (i < perfs.length) {
           let current = perfs[i];
           let d = results.find(o => o.date === current.date && o.location.place === current.location.place && o.titleFull === current.titleFull);
-          if (d && compare(current, d)) {
+          if (d && compare(current, d, ["date", "time", "titleFull", "details", "footnote"])) {
             if (current.bbNum != d.bbNum) {
               let index = duplicates.findIndex(a => a.includes(d.bbNum));
               if (index > -1) {

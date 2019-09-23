@@ -1,12 +1,12 @@
 const compareArr = require('./compareArr.js');
-const str = ["date", "time", "titleFull", "details", "footnote"];
+//const str = ["date", "time", "titleFull", "details", "footnote"];
 const lockeys = ["place", "address"]
 
-//compares two arrays element by element
+
 module.exports = comparebb;
 
 
-function comparebb(a, b) {
+function comparebb(a, b, str) {
   str.forEach(k => {
     if (a[k] != b[k]) {
       return false;

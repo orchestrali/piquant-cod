@@ -12,15 +12,17 @@ const template = {
 
 const details = require('./k/title2.js');
 
-var notes = [];
+
 
 module.exports = function traffic(num, prelim, cb) {
+  let notes = [];
+  let multitext = [];
   let obj = {
     bbNum: num
   };
   let n = {
     num: num,
-  }
+  };
   if (prelim.pealSpeed) obj.pealSpeed = prelim.pealSpeed.replace("Peal speed: ", "");
   for (let key in prelim) {
     if (key === "title") {
@@ -69,27 +71,29 @@ module.exports = function traffic(num, prelim, cb) {
   }
   
   //return obj;
-}
 
-var multitext = [];
 
-function countText(x, key, level) {
-  if (Array.isArray(x)) {
-    if (level === 1 && x.length > 1 && !notes.includes("more than one "+key+" element")) {
-      notes.push("more than one "+key+" element");
+
+
+  function countText(x, key, level) {
+    if (Array.isArray(x)) {
+      if (level === 1 && x.length > 1 && !notes.includes("more than one "+key+" element")) {
+        notes.push("more than one "+key+" element");
+      }
+      x.forEach(o => {
+        if (o.text && o.text.length > 1) {
+          if (!multitext.includes(key)) multitext.push(key);
+        }
+        if (o.content) {
+          countText(o.content, key, 2);
+        }
+      })
     }
-    x.forEach(o => {
-      if (o.text && o.text.length > 1) {
-        if (!multitext.includes(key)) multitext.push(key);
-      }
-      if (o.content) {
-        countText(o.content, key, 2);
-      }
-    })
-  }
-  if (level === 1 && key === "location") {
-    countText(x.fullPlace, "fullplace", 2);
-    countText(x.address, "address", 2);
+    if (level === 1 && key === "location") {
+      countText(x.fullPlace, "fullplace", 2);
+      countText(x.address, "address", 2);
+    }
+
   }
   
 }
